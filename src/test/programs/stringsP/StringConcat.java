@@ -1,3 +1,5 @@
+package stringsP;
+
 public class StringConcat {
     public static void main(String args[])
     {
